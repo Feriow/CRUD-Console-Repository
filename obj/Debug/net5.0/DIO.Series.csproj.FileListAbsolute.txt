@@ -1,0 +1,16 @@
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+E:\Users\Ferio\Desktop\Cursos\DIO\Cursos\Criando um app simples de cadastro DotNet\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
